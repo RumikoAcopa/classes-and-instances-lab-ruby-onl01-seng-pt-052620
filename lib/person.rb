@@ -4,4 +4,4 @@ def class Person
 
   alan_kay = Person.new
 
-end  
+end
